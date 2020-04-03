@@ -1,4 +1,5 @@
 rocketshoes 
 
-yarn or npm install
-yarn start
+1 - yarn or npm install
+
+2 - yarn start
